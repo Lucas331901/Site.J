@@ -35,7 +35,7 @@ if(usuario == "Juliana" && senha == "123"){
 
     setTimeout(() => {
 
-    location.href = "http://0.0.0.0:5500/home/home.html";
+    location.href = "http://127.0.0.1:5500/error/erro.html";
 
     }, 500);
     
@@ -45,7 +45,7 @@ if(usuario == "Juliana" && senha == "123"){
 
     setTimeout(() => {
 
-        location.href = "http://0.0.0.0:5500/error/erro.html";
+        location.href = "http://127.0.0.1:5500/error/erro.html";
     
         }, 500);
 
